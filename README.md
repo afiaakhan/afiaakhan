@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" >
 
-- 🌱 I’m currently learning **SQL, Databases, ETL**
+- 🌱 I’m currently learning **SQL, Databases, Data Preparation(ELT & ETL)**
 - 👯 I’m looking to collaborate on projects related to **Html,CSS & Javascript**
 - 📫 How to reach me **afiakhan166@gmail.com**
 
